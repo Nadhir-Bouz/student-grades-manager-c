@@ -21,3 +21,10 @@ This is a simple C program that manages student data, including:
 
 ```bash
 gcc main.c -o student-manager
+````
+
+##  How to Compile
+
+```bash
+./student-manager
+````
