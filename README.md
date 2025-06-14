@@ -31,7 +31,7 @@ gcc main.c -o student-manager
 
 ## Example Input
 
-```bash
+```
 n-etudiants: 2
 n-notes: 3
 
@@ -60,7 +60,7 @@ Coef 3: 1
 
 ## Example Output
 
-```bash
+```
 Moy de classe: 14.17
 
 Etudiants trie par nom:
